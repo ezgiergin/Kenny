@@ -1,8 +1,3 @@
-# KennyGame
-# KennyGame
-# KennyGame
-# KennyGame
-# KennyGame
-# Kenny
-# Kenny
-# Kenny
+#KennyGame Nasıl Çalıştırılır ?
+
+bunu şöyle böyle
